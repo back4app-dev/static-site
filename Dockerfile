@@ -8,4 +8,3 @@ COPY index.html /usr/share/
 
 
 # Start the Nginx web server when the container runs
-CMD ["nginx", "-g", "daemon off;"]
