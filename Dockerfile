@@ -3,7 +3,6 @@
 FROM nginx:alpine
 
 # Copy your static website files to the Nginx document root
-COPY index.html /usr/share/
 
 
 
